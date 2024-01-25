@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Your Image Description" align="center">
+
 <h1 align="center">Hi 👋, I'm Gokul Suresh S.V</h1>
 <h3 align="center">"Self-Taught Full Stack Web Developer | Crafting PetStation on the MEAN Stack"</h3>
 
