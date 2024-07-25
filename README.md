@@ -1,21 +1,22 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Your Image Description" align="center">
+
 <h1 align="center">Hi 👋, I'm Gokul Suresh S.V</h1>
-<h3 align="center">"Self-Taught Full Stack Web Developer | Crafting EduNest on the MERN Stack"</h3>
+<h3 align="center">"Self-Taught Full Stack Web Developer | Crafting Inovative Projects"</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gokulsuresh1918&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsuresh1918" />
 </p>
 <p align="left">
-  🔭 I’m currently working on <strong>EduNest</strong><br>
-  🌱 I’m currently learning <strong>MEAN Stack</strong><br>
-  💬 Ask me about <strong>MERN Stack, Node.js, MongoDB, Express, React, JavaScript</strong><br>
-  📫 How to reach me: <a href="mailto:gokulofficial18602@gmail.com">gokulofficial18602@gmail.com</a><br>
-  🎉 I have completed <strong>PetStation</strong> (an e-commerce platform for buying, selling, and renting pets)
+  🔭 I’m currently working on <strong>Weather App</strong><br>
+  🌱 I’m currently learning <strong>Docker</strong><br>
+  💬 Ask me about <strong>MERN Stack,Next js,tailwind, Node.js, MongoDB, Express, React, JavaScript</strong><br>
+  📫 How to reach me: <a href="mailto:gokulofficial18602@gmail.com">gokulofficial18602@gmail.com</a> | 7902371571<br>
+  🎉 I have completed several Project you can check my repo
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gokul-suresh-341791289/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  
   <a href="https://www.leetcode.com/gokulsuresh1819" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -63,7 +64,7 @@
   </a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Your Image Description" align="center">
 
 
 
