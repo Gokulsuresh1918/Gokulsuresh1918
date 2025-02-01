@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://leetcode.com/gokulsuresh1819/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-100k%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Stats">
+    <img src="https://img.shields.io/badge/LeetCode-200k%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Stats">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/gokul-dev1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://www.edunest.life/" target="_blank">
@@ -16,7 +16,7 @@
 ---
 
 ### 🔍 **About Me**
-- 💼 **Current Role**: Full-Stack Developer @ **Datavalley India Pvt Ltd** (Pallstack Developer, Sept 2023–Present)
+- 💼 **Current Role**: Full-Stack Developer @ **Datavalley India Pvt Ltd** (MERN Developer, Sept 2023–Present)
 - 🚀 **Focus**: Building scalable web apps with **Next.js, MERN Stack, Docker, & AWS**
 - 🌱 **Learning**: Advanced Docker, Microservices, & Testing Strategies
 - 🎯 **Passion**: Solving complex problems with clean, maintainable code
@@ -37,7 +37,7 @@
 ### 🏆 **Featured Projects**
 
 #### 1. **EduNest** | Next.js, MERN, Docker, AWS
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/your-repo) [![Live Demo](https://img.shields.io/badge/Live-Demo-4BC0D9?logo=vercel)](https://www.edunest.life/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Gokulsuresh1918/EduNest-FrontEnd) [![Live Demo](https://img.shields.io/badge/Live-Demo-4BC0D9?logo=vercel)](https://www.edunest.life/)
 - **Description**: Revolutionizing online learning with virtual classrooms, AI integration, and a placement portal.
 - **Key Features**:
   - Live classes with screen sharing & chat using WebSockets
@@ -45,7 +45,7 @@
   - Dockerized microservices architecture deployed on AWS
 
 #### 2. **PetsStation** | MERN Stack, AWS
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/your-repo) [![Live Demo](https://img.shields.io/badge/Live-Demo-4BC0D9?logo=vercel)](https://petsstation.demo)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Gokulsuresh1918/Pet-StatioN) [![Live Demo](https://img.shields.io/badge/Live-Demo-4BC0D9?logo=vercel)](https://petsstation.shop)
 - Scalable e-commerce platform for pet adoption/sales
 - Integrated payment gateways (Razorpay) & admin dashboard
 - Deployed on AWS with Nginx load balancing
