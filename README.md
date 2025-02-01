@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/gokulsuresh1819/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-200k%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Stats">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Stats">
   </a>
   <a href="https://www.linkedin.com/in/gokul-dev1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?logo=linkedin" alt="LinkedIn">
